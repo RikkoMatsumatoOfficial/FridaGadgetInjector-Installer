@@ -1,6 +1,6 @@
 # FridaGadgetInjector-Installer
 
-This is Installer for FridaGadgetInjector(FGI)... So Enjoy to use this!!!
+This is Very Simple Installer for FridaGadgetInjector(FGI)... So Enjoy to use this!!!
 
 ## Donations
 
