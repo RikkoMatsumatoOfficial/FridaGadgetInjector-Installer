@@ -8,7 +8,7 @@ def Main():
         os._exit(4421)
     except:
         print("Something Wrong with This Installer!!!")
-        os._exit(4545)
+        os._exit(4512)
 
 if __name__ == "__main__":
     Main()
